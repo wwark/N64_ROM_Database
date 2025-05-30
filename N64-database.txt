@@ -227,6 +227,7 @@ b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 24da9e65cf49dc2692337db4f69cb7ee ntsc|cic6102 # Wizard of the Board - Sicko Mode
 5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|cpak|rpak # Xeno Crisis
 3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|cpak|rpak # Xeno Crisis (Everdrive)
+1ed9253297ba537b0c3f86824c59405b ntsc|cic6102|sram32k|rpak|cpak # The Patchmaker's Workshop (Hack)
 
 ; No-Intro EXTRAS
 26ac0f95174efdff337b81ed81bf03a9 ntsc|cic6102|cpak|rpak # Bassmasters 2000 (Beta)
